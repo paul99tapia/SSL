@@ -11,9 +11,6 @@
 9. Ejecutar el programa, y capturar su salida en un archivo de texto output.txt . 10.Publicar en el repositorio personal SSL la carpeta 00-CHelloWorld con readme.md, hello.c, y output.txt . 11.La última tarea es informar por email a UTNFRBASSL@yahoogroups.com1 el usuario GitHub.
 
 paul99tapia
-
 1679363
-
 Tapia Puña
-
 Paul Sergio
