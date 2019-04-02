@@ -1,4 +1,4 @@
-# "Hello, World!" en C
+# 00-CHelloWorld
 
 1. Solicitar inscripción al Grupo Yahoo, la aprobación demora un par de días. 
 2. Si no posee una cuenta GitHub, crearla. 
