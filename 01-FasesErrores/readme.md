@@ -72,11 +72,11 @@ gcc -std=c11 -E hello3.c > hello3.i
 
 Diferencias:
 
-Se incluyeron las lineas
-    # 1 "hello3.c"  
-    # 1 "<built-in>"  
-    # 1 "<command-line>"  
-    # 1 "hello3.c"  
+Se incluyeron las lineas  
+`# 1 "hello3.c"`  
+`# 1 "<built-in>"`  
+`# 1 "<command-line>"`  
+`# 1 "hello3.c"`  
 
 Estos son linemarkers. En este caso, el 1 indica el inicio del archivo.
 
