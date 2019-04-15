@@ -57,7 +57,7 @@ Paul Sergio
 
 P.2
 
-gcc -std=c11 -E hello2.c > hello2.i
+gcc -std=c11 -E hello2.c > hello2.i  
 El comando gcc con la opcion -E genera el codigo preprocesado y lo envia a la salida estandar, por eso debemos redirigir la salida al archivo hello2.i  
 Los comentarios fueron remplazados por blancos y se ven todas las declaraciones del header file que se incluyo (stdio.h)  
 
