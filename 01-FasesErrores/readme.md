@@ -127,6 +127,8 @@ gcc -std=c11 hello4.o -lmsvcrt -o hello4.exe
 c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: hello4.o:hello4.c:(.text+0x1e): undefined reference to `prontf'  
 collect2.exe: error: ld returned 1 exit status  
 
+(No genera ejecutable)
+
 P.11
 
 gcc -std=c11 hello5.c -o hello5.exe
@@ -176,4 +178,5 @@ hello7.c:3:5:
 hello7  
 La respuesta es 42  
 
-Esto funciona porque la libreria estandar de C (en la cual printf esta incluida) es likeada por default
+Esto funciona porque la libreria estandar de C (en la cual printf esta incluida) es likeada por default.  
+Además en C no es necesario declarar las funciones para utilizarlas (solamente nos da un warning)
